@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secure MDC</string>
+    <string name="label">Secure_MDC</string>
+ 	<string name="signup_title">Create new account</string>
+    <string name="login_label">Log in</string>
+
+</resources>
